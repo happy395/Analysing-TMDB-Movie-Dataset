@@ -1,0 +1,1 @@
+This is a project on analysing the TMDB Movie dataset. 17 questions about the dataset were answered during the course of this analysis. The project was completed in python using libraries like pandas numpy, seaborn and matplotlib.
